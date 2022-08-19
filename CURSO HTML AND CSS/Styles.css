@@ -1,0 +1,35 @@
+.lista-de-gatos {
+  color:darkcyan;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+
+li {
+  color: blue;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;;
+}
+
+.imagenes-de-gatos {
+  width: 300px;
+  border-width: 10px;
+  border-color: aqua;
+  border-style:groove;
+}
+
+div {
+  background-color:antiquewhite;
+}
+
+#ultima-imagen-de-gatos {
+  border-radius: 150;
+  border-width: 10px;
+  border-style: solid;
+  border-color:chartreuse;
+}
